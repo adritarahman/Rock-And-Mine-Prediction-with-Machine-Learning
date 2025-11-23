@@ -43,7 +43,7 @@ Predict rock or mine for new input values
 
 ### 📈 Model Accuracy  
 
-Dataset Accuracy
+Dataset Accuracy  
 Training Set	~83.4%  
 Testing Set  	~76.1%  
 
